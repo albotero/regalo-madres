@@ -4,13 +4,13 @@ import bahamas from "../assets/img/bahamas.jpeg"
 
 const options = {
   daytona: {
-    name: "Daytona Beach",
-    image: daytona,
+    name: "Nassau",
+    image: bahamas,
     url: "https://www.booking.com/Share-7q7eiX",
   },
   bahamas: {
-    name: "Nassau",
-    image: bahamas,
+    name: "Daytona Beach",
+    image: daytona,
     url: "https://www.booking.com/Share-9XUDum",
   },
 }
